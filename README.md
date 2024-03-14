@@ -1,4 +1,8 @@
 # izzasamara
+<a href="https://ibb.co/9yJP4qB"><img src="https://i.ibb.co/wpTtQK8/cropped-image.png" alt="cropped-image" border="0"></a>
+
+
+
 <p align="center">
   <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hai+IZZASMARA!+%3A).;jangan+lupa+kasih+start+🌟" alt="budii">
 </p>
