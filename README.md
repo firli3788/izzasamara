@@ -51,3 +51,6 @@
 <a href="https://ibb.co/wSJwZgQ"><img src="https://i.ibb.co/1rsdYQX/IMG-20240122-WA0077.jpg" alt="IMG-20240122-WA0077" border="0"></a>
 <a href="https://ibb.co/VwkqRn3"><img src="https://i.ibb.co/WVR2Z8s/IMG-20240117-WA0028.jpg" alt="IMG-20240117-WA0028" border="0"></a>
 <a href="https://ibb.co/5111b9z"><img src="https://i.ibb.co/nwwwx0V/IMG-20240122-WA0078.jpg" alt="IMG-20240122-WA0078" border="0"></a>
+
+<p align="center">
+ <a href="https://www.instagram.com/ccxarayz?igsh=MXJ3NDNmYWFhNmh3cQ=="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/+6288299525310"><img 
